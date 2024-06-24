@@ -1,2 +1,2 @@
 # Prompt-Engineering
-Here we'll learn what is called prompt engineering
+Here the information about what is called prompt engineering
